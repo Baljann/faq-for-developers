@@ -3,8 +3,13 @@
 Welcome to the **FAQ for Developers** project! 🚀  
 This is a simple and interactive FAQ page created to answer common development-related questions in a clean and user-friendly way.
 
-> **Built with:**  
-> 🛠️ HTML • 🎨 CSS • ⚡ JavaScript
+>  🚀**Built with:**  
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
 
 ---
 
@@ -32,15 +37,6 @@ Here’s a quick look at the final result:
 
 <img src="https://github.com/user-attachments/assets/5a06f04d-12ac-4fb9-9b9d-9153f31aebdb" width="400" />
 
----
-
-## 🚀 Technologies Used
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</div>
 
 ---
 

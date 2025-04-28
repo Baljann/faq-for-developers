@@ -35,7 +35,7 @@ It features:
 
 Here’s a quick look at the final result:
 
-<img src="https://github.com/user-attachments/assets/5a06f04d-12ac-4fb9-9b9d-9153f31aebdb" width="400" />
+<img src="https://github.com/user-attachments/assets/5a06f04d-12ac-4fb9-9b9d-9153f31aebdb"/>
 
 
 ---

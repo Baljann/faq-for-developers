@@ -47,10 +47,8 @@ I’m excited to continue improving and building more interactive web experience
 
 ---
 
-## 📬 Contact
+## 💬 Feedback
 
-Feel free to connect with me if you have any questions or suggestions! 🤝  
-<!-- You can add your LinkedIn, portfolio or email here later -->
-
----
+Found a bug or want to suggest an improvement?  
+Feel free to open an [issue](https://github.com/YourUsername/faq-for-developers/issues) or submit a pull request. Contributions are warmly welcome! 🚀
 
